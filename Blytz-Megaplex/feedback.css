@@ -1,0 +1,22 @@
+#formulir{
+    text-align: center;
+    padding-top: 100px;
+    background-color: #ffffff;
+}
+
+.header{
+    text-align: center;
+}
+
+
+.left{
+    display: flex;
+    width: 100px;
+}
+
+
+
+.flexing{
+    display: flex;
+    justify-content: center;
+}
