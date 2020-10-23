@@ -18,6 +18,9 @@ This website design must be simple and easy-understanding because it targets cus
 the image is changed when they are hover and the all of the button are clickable and visible. 
 
 ![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/homepageblytz.png)
+
+
+
 ![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/feedbackblytz.png)
 
 
