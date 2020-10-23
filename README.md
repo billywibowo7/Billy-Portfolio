@@ -18,7 +18,7 @@ This website design must be simple and easy-understanding because it targets cus
 the image is changed when they are hover and the all of the button are clickable and visible. 
 
 
-# Project 2: RX-Player
+# [Project 2: RX-Player](https://github.com/billywibowo7/RX-player)
 by Eric Bintang Timotius (2201764054)
    Billy Wibowo (2201762326)
    Verio Joshua (2201764054)
@@ -28,3 +28,4 @@ RX-Player is a group project for Human and Computer Interaction final assignment
 
 RX player is a digital music player company formed in December 2019 and located in Jakarta, Indonesia. The main purpose of the RX player is to provide millions of high-quality songs from any of the countries all around the world. RX player also provides all kinds of genres. Songs in RX players are always updated every day. The user can also be the creator that can upload their song to the RX player and share that song privately or publicly.
 
+This project is using HTML, JavaScript, and CSS.
