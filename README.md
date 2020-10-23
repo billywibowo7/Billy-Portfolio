@@ -17,6 +17,9 @@ of Blytz Megaplex.
 This website design must be simple and easy-understanding because it targets customers from all ages. It also has interactive feature such as
 the image is changed when they are hover and the all of the button are clickable and visible. 
 
+![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/homepageblytz.png)
+![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/feedbackblytz.png)
+
 
 # [Project 2: RX-Player](https://github.com/billywibowo7/RX-player)
 by Eric Bintang Timotius (2201764054)
