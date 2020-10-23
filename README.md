@@ -3,7 +3,7 @@ My Modest Portfolio
 
 
 
-Project #1: Blytz Megaplex 
+[Project #1: Blytz Megaplex] / https://github.com/billywibowo7/Blytz-Megaplex
 by Billy Wibowo (2201762326)
 
 - Blytz Megaplex is a dummy cinema and it is developing a website that will provide an explanation about Blytz Megaplex, 
