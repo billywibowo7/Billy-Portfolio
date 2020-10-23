@@ -35,3 +35,19 @@ RX-Player is a group project for Human and Computer Interaction final assignment
 RX player is a digital music player company formed in December 2019 and located in Jakarta, Indonesia. The main purpose of the RX player is to provide millions of high-quality songs from any of the countries all around the world. RX player also provides all kinds of genres. Songs in RX players are always updated every day. The user can also be the creator that can upload their song to the RX player and share that song privately or publicly.
 
 This project is using HTML, JavaScript, and CSS.
+
+
+
+![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/rxplayerAboutUs.png)
+
+
+![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/resgistration.png)
+
+
+![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/membership.png)
+
+
+![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/musicbyGenre.png)
+
+
+![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/top10music.png)
