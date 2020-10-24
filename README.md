@@ -18,9 +18,9 @@ This website design must be simple and easy-understanding because it targets cus
 the image is changed when they are hover and the all of the button are clickable and visible. 
 
 
-<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/homepageblytz.png?raw=true" height="100" width="100">
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/homepageblytz.png?raw=true" height="300" width="250">
 
-<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/feedbackblytz.png?raw=true" height="100" width="100">
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/feedbackblytz.png?raw=true" height="300" width="250">
 
 
 # [Project 2: RX-Player](https://github.com/billywibowo7/RX-player)
