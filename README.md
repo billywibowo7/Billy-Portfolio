@@ -19,8 +19,8 @@ the image is changed when they are hover and the all of the button are clickable
 
 
 | Homepage | Feedback |
-|:---------------------:|:----------------------:|
-|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/homepageblytz.png?raw=true" alt="Homepage"> | 
+|:--------:|:--------:|
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/homepageblytz.png?raw=true" alt="Homepage" | 
 <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/feedbackblytz.png?raw=true" alt="Feedback"> |
 
 
