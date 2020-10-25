@@ -48,10 +48,8 @@ This project is using HTML, JavaScript, and CSS.
 
 | Music by Genre | Top 10 Music |
 |:--------------:|:------------:|
-|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/musicbyGenre.png?raw=true alt="Music by Genre"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/top10music.png?raw=true alt="Top 10 Music"> |
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/musicbyGenre.png?raw=true alt="Music by Genre"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/top10music.png?raw=true" alt="Top 10 Music"> |
 
 
-![]()
 
 
-![]()
