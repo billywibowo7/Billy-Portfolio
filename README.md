@@ -53,7 +53,7 @@ This project is using HTML, JavaScript, and CSS.
 
 
 
-# [Project 3: Classification and Clustering in Machine Learning (Big Data Processing)
+# [Project 3: Classification and Clustering in Machine Learning (Big Data Processing)](https://github.com/billywibowo7/Big-Data-Processing)
 by Billy Wibowo (2201762326)
 
 
@@ -73,6 +73,28 @@ Image from first step until last step
 
 <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/classification1.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/classification2.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/classification3.png?raw=true"> 
 
+
+CLustering in Machine Learning: This program is to make a clustering model that will have 2 cluster, grizzly bear cluster and non-grizzly bear cluster with given files  “BearTraining.csv” and “BearTesting.csv”
+
+1.	Load Data
+ Load the data from “BearTraining.csv” and “BearTesting.csv” using SparkSession.
+2.	Select Features
+After load the data, select three important features that will be used for training. My selection is Front Claws, Pupillary Distance, and Ear Shape) 
+3.	Data Preprocessing
+This step is to remove any missing values in the data.
+4.	Transform Data
+In this step, transform the raw data so that it is suitable for training. For example, recode the ‘Ear Shape’ column value to be either 0, 1, or 2.
+5.	Normalization
+After data preprocessing, normalize the data using the StandardScaler package
+6.	Generate Model
+Next, generate a model from the data using the KMeans package to generate the model into 2 cluster.
+7.	Visualization
+After the model is generated, visualize the model using the pyplot package. (Also to add x-label, y-label, and title for the plot.)
+8.	Model Testing and Evaluation
+Then, test the model to check predict whether the data will be in grizzly bear cluster or in the non-grizzly bear cluster and print the accuracy of your model and get the model with minimum accuracy 80% or higher.
+
+
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering1.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering2.png?raw=true> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering3.png?raw=true> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering3.png?raw=true">
 
 
 
