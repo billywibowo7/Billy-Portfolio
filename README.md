@@ -58,7 +58,7 @@ by Billy Wibowo (2201762326)
 
 
 
-Classification in Machine Learning: This program is to create a predictive model that will classify whether a planet is likely habitable or not from given data "Planet_Training.csv" and "Planet_Testing.csv". The goal of this program is to make classification model and test it to "Planet_Testing.csv"
+- Classification in Machine Learning: This program is to create a predictive model that will classify whether a planet is likely habitable or not from given data "Planet_Training.csv" and "Planet_Testing.csv". The goal of this program is to make classification model and test it to "Planet_Testing.csv"
 
 First, is Load Data from given file “Planet_Training.csv” and “Planet_Testing.csv” using SparkSession
 Second is to select important features that will be used for training. In this we should pick three important features (My selection is Temperature, Water, and Atmosphere Color)
@@ -74,7 +74,7 @@ Image from first step until last step
 <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/classification1.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/classification2.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/classification3.png?raw=true"> 
 
 
-CLustering in Machine Learning: This program is to make a clustering model that will have 2 cluster, grizzly bear cluster and non-grizzly bear cluster with given files  “BearTraining.csv” and “BearTesting.csv”
+- CLustering in Machine Learning: This program is to make a clustering model that will have 2 cluster, grizzly bear cluster and non-grizzly bear cluster with given files  “BearTraining.csv” and “BearTesting.csv”
 
 1.	Load Data
  Load the data from “BearTraining.csv” and “BearTesting.csv” using SparkSession.
@@ -97,6 +97,47 @@ Then, test the model to check predict whether the data will be in grizzly bear c
 <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering1.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering2.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering3.png?raw=true">
 
 
+
+- Query and Data Visualization: DezzDryth Online is an online game which is currently being popular in South East Asia. Since the popularity are going high, make some analysis on the data they have. Below is the DezzDryth Online ERD to analyze: 
+
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/erd.jpg?raw=true">
+
+
+1.	Load Data from CSV to Spark
+Using SparkSession, read the following files (“MsNPC.csv”, “MsPlayer.csv”, “MsWeapon.csv”, “MsWeaponType.csv”, “TransactionHeader.csv”, “TransactionDetail.csv”).
+
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/visualization1.png?raw=true">
+
+2.	Query Analysis and Visualization
+Gain some sales insight about the data. Below are some statements you need to answer. Use SparkSQL to answer the question and pyplot package to visualize the answer.
+a.	Show the percentage of weapon type sold for weapon type that is sold in 2019 using pie plot.
+
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/visualization2.png?raw=true">
+
+b.	Show the total number of players who bought axe weapon type per month in 2019 using line plot. Multiple transaction within the same month will be counted as 1.
+
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/visualization3.png?raw=true">
+
+c.	Show the frequency of special weapon being distributed to female players in 2019 using bar plot. The player will receive special weapon if their monthly spending reached this following condition: 
+Special Weapon	Monthly Spending
+Storm Breaker	1000000 - 1499999
+Nightfall	1500000 – 1999999
+Extinction	> 2000000
+
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/visualization4.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/visualization5.png?raw=true"> 
+
+d.	Show total number of players per month in 2019 who bought at least 3 different weapon type in a month using line plot.
+
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/visualization6.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/visualization7.png?raw=true">
+
+e.	Show the frequency of NPC's popularity who has done at least transaction with 5 different player using bar plot. The popularity is determined based on the total income made by the NPC as follows:
+Popularity	Total Income
+Very Popular	>= 15,000,000
+Popular	>= 7,500,000 – 14,999,999
+Quite Popular	>= 2,500,000 – 7,499,999
+Not Popular	< 2,500,000
+
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/visualization8.png?raw=true">
 
 
 
