@@ -53,3 +53,28 @@ This project is using HTML, JavaScript, and CSS.
 
 
 
+# [Project 3: Classification and Clustering in Machine Learning (Big Data Processing)
+by Billy Wibowo (2201762326)
+
+
+
+Classification in Machine Learning: This program is to create a predictive model that will classify whether a planet is likely habitable or not from given data "Planet_Training.csv" and "Planet_Testing.csv". The goal of this program is to make classification model and test it to "Planet_Testing.csv"
+
+First, is Load Data from given file “Planet_Training.csv” and “Planet_Testing.csv” using SparkSession
+Second is to select important features that will be used for training. In this we should pick three important features (My selection is Temperature, Water, and Atmosphere Color)
+Third, we should remove any mising values in the data
+Fourth is to transform raw data so that can be suitable for training
+Fifth step is to normalize the data using StandardScaler package
+Sixth, Generate a model from the data using LogisticRegression package with 10 as the max iteration
+And last but not least, after the model is generated, you can test the model to predict whether the planet will be habitable or not using BinaryClassificationEvaluator package to print the accuracy of your model. Get the model with minimum accuracy 90% or higher
+
+Image from first step until last step
+
+
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/classification1.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/classification2.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/classification3.png?raw=true"> 
+
+
+
+
+
+
