@@ -94,7 +94,7 @@ After the model is generated, visualize the model using the pyplot package. (Als
 Then, test the model to check predict whether the data will be in grizzly bear cluster or in the non-grizzly bear cluster and print the accuracy of your model and get the model with minimum accuracy 80% or higher.
 
 
-<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering1.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering2.png?raw=true> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering3.png?raw=true">
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering1.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering2.png?raw=true"> <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/clustering3.png?raw=true">
 
 
 
