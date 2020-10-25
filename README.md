@@ -26,6 +26,8 @@ the image is changed when they are hover and the all of the button are clickable
 
 
 
+
+
 # [Project 2: RX-Player](https://github.com/billywibowo7/RX-player)
 by Eric Bintang Timotius (2201764054)
    Billy Wibowo (2201762326)
@@ -40,16 +42,16 @@ This project is using HTML, JavaScript, and CSS.
 
 
 
-![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/rxplayerAboutUs.png)
+| About Us | Registration | Membership |
+|:--------:|:------------:|:----------:|
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/rxplayerAboutUs.png?raw=true" alt="About Us"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/resgistration.png?raw=true" alt="Registration"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/membership.png?raw=true alt="Membership"> |
+
+| Music by Genre | Top 10 Music |
+|:--------------:|:------------:|
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/musicbyGenre.png?raw=true alt="Music by Genre"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/top10music.png?raw=true alt="Top 10 Music"> |
 
 
-![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/resgistration.png)
+![]()
 
 
-![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/membership.png)
-
-
-![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/musicbyGenre.png)
-
-
-![](https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/top10music.png)
+![]()
