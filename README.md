@@ -44,11 +44,11 @@ This project is using HTML, JavaScript, and CSS.
 
 | About Us | Registration | Membership |
 |:--------:|:------------:|:----------:|
-|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/rxplayerAboutUs.png?raw=true" alt="About Us"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/resgistration.png?raw=true" alt="Registration"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/membership.png?raw=true alt="Membership"> |
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/rxplayerAboutUs.png?raw=true" alt="About Us"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/resgistration.png?raw=true" alt="Registration"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/membership.png?raw=true" alt="Membership"> |
 
 | Music by Genre | Top 10 Music |
 |:--------------:|:------------:|
-|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/musicbyGenre.png?raw=true alt="Music by Genre"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/top10music.png?raw=true" alt="Top 10 Music"> |
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/musicbyGenre.png?raw=true" alt="Music by Genre"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/top10music.png?raw=true" alt="Top 10 Music"> |
 
 
 
