@@ -161,7 +161,7 @@ Below is the example of the prototype design of R-Pay from our group
 
 | Logo |
 | :--: |
-|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/Logo.png?raw=true"> |
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/Logo.png?raw=true" height="500" width="500"> |
 
 | Login Page | Profile Page | Home Page |
 |:----------:|:------------:|:---------:|
