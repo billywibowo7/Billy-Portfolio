@@ -30,15 +30,13 @@ the image is changed when they are hover and the all of the button are clickable
 
 # [Project 2: RX-Player](https://github.com/billywibowo7/RX-player)
 by Eric Bintang Timotius (2201764054)
-   Billy Wibowo (2201762326)
-   Verio Joshua (2201764054)
+   Billy Wibowo          (2201762326)
+   Verio Joshua          (2201764054)
 
 
-RX-Player is a group project for Human and Computer Interaction final assignment.
+- RX-Player is a group project for Human and Computer Interaction final assignment.
 
-RX player is a digital music player company formed in December 2019 and located in Jakarta, Indonesia. The main purpose of the RX player is to provide millions of high-quality songs from any of the countries all around the world. RX player also provides all kinds of genres. Songs in RX players are always updated every day. The user can also be the creator that can upload their song to the RX player and share that song privately or publicly.
-
-This project is using HTML, JavaScript, and CSS.
+- RX player is a digital music player company formed in December 2019 and located in Jakarta, Indonesia. The main purpose of the RX player is to provide millions of high-quality songs from any of the countries all around the world. RX player also provides all kinds of genres. Songs in RX players are always updated every day. The user can also be the creator that can upload their song to the RX player and share that song privately or publicly. This project is using HTML, JavaScript, and CSS.
 
 
 
@@ -142,14 +140,32 @@ Not Popular	< 2,500,000
 
 
 
-# [Project 4: Rawit Pay a.k.a R-Pay (Software Engineering)
-by Alvin Fernando - 2201755200
-Billy Wibowo - 2201762326
-Eric Bintang Timotius - 2201764054
-Ferdinand Wibowo - 2201741826
-Jason Wiratama Goenawan - 2201745401
-Verio Joshua - 2201750313
-Vincent - 2201738421
+# [Project 4: RA Laundry](https://github.com/billywibowo7/RA-Laundry)
+by Steven Odolf Yuwono        (2201758045)
+	Rudy Prabowo Halim         (2201750074)
+	Jonathan Herbert Saginto 	(2201786566)
+	Billy Wibowo               (2201762326)	
+
+- RA’Laundry is a laundry store that handled laundry services. RA’Laundry manage transactions like service and purchase transactions. Service transaction is a transaction that happened when customer wants to laundry their clothes, while Purchase transaction is a transaction that happened when the store wants to restock their material (equipment/supplies) from a vendor.
+
+- Our tasks as database administrator in RA’Laundry are to create a database system that can store data and maintain the service transactions and purchase transactions. According to the requirement that has been requested.
+
+
+RA Laundry's Database Entity Relationship Diagram (ERD)
+
+<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/RA%20Laundry/erd.png?raw=true">
+
+
+
+
+# [Project 5: Rawit Pay a.k.a R-Pay (Software Engineering)
+by Alvin Fernando         (2201755200)
+Billy Wibowo              (2201762326)
+Eric Bintang Timotius     (2201764054)
+Ferdinand Wibowo          (2201741826)
+Jason Wiratama Goenawan   (2201745401)
+Verio Joshua              (2201750313)
+Vincent                   (2201738421)
 
 
 
@@ -174,3 +190,6 @@ Below is the example of the prototype design of R-Pay from our group
 | Claim Voucher |
 | :-----------: |
 |<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/claimvoucher.png?raw=true"> |
+
+
+
