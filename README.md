@@ -58,13 +58,23 @@ by Billy Wibowo (2201762326)
 
 - Classification in Machine Learning: This program is to create a predictive model that will classify whether a planet is likely habitable or not from given data "Planet_Training.csv" and "Planet_Testing.csv". The goal of this program is to make classification model and test it to "Planet_Testing.csv"
 
-First, is Load Data from given file “Planet_Training.csv” and “Planet_Testing.csv” using SparkSession
-Second is to select important features that will be used for training. In this we should pick three important features (My selection is Temperature, Water, and Atmosphere Color)
-Third, we should remove any mising values in the data
-Fourth is to transform raw data so that can be suitable for training
-Fifth step is to normalize the data using StandardScaler package
-Sixth, Generate a model from the data using LogisticRegression package with 10 as the max iteration
-And last but not least, after the model is generated, you can test the model to predict whether the planet will be habitable or not using BinaryClassificationEvaluator package to print the accuracy of your model. Get the model with minimum accuracy 90% or higher
+1.	Load Data
+Load the data from  “Planet_Training.csv” and “Planet_Testing.csv” using SparkSession.
+2.	Select Features
+After load the data, select three important features that will be used for training. My selections are Temperature, Water, and Atmosphere Color
+3.	Data Preprocessing
+This step is to remove any missing values in the data.
+4.	Transform Data
+In this step, transform the raw data so that it is suitable for training. For example, recode the ‘Iron’ column value to be either 0, 1, or 2.
+5.	Normalization
+After data preprocessing, normalize the data using the StandardScaler package.
+6.	Generate Model
+Next, generate a model from the data using the LogisticRegression package with ‘10’ as the max iteration.
+7.	Model Testing and Evaluation
+After the model is generated, test the model to predict whether the planet will be habitable or not using BinaryClassificationEvaluator package and print the accuracy of your model with minimum accuracy 90% or higher.
+
+ 
+
 
 Image from first step until last step
 
@@ -77,7 +87,7 @@ Image from first step until last step
 1.	Load Data
  Load the data from “BearTraining.csv” and “BearTesting.csv” using SparkSession.
 2.	Select Features
-After load the data, select three important features that will be used for training. My selection is Front Claws, Pupillary Distance, and Ear Shape) 
+After load the data, select three important features that will be used for training. My selections are Front Claws, Pupillary Distance, and Ear Shape) 
 3.	Data Preprocessing
 This step is to remove any missing values in the data.
 4.	Transform Data
