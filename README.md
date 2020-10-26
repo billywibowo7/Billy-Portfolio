@@ -141,3 +141,36 @@ Not Popular	< 2,500,000
 
 
 
+
+# [Project 4: Rawit Pay a.k.a R-Pay (Software Engineering)
+by Alvin Fernando - 2201755200
+Billy Wibowo - 2201762326
+Eric Bintang Timotius - 2201764054
+Ferdinand Wibowo - 2201741826
+Jason Wiratama Goenawan - 2201745401
+Verio Joshua - 2201750313
+Vincent - 2201738421
+
+
+
+R-Pay is an e-wallet application such as OVO, DANA, Gopay, and others that also provide cashback to its users. But the difference between R-Pay and others is that here we provide cashback, not solely we use money like other e-wallets, but we give cashback to users in a way that users have to see an ad (advertisement) of about 30 seconds that cannot be discarded about a working sponsor the same as R-Pay. After that, the user gets cashback from us, here we have a win-win situation between us, the user, and our sponsor. Our target customers are people of productive age, namely those aged 15 - 64 years who often spend their money and have kept up with the times. And we hope that not only big city people will use this e-wallet but we will also target people in small cities as customers by providing several promos in several small cities.
+
+
+Below is the example of the prototype design of R-Pay from our group
+
+
+| Logo |
+| :--: |
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/Logo.png?raw=true"> |
+
+| Login Page | Profile Page | Home Page |
+|:----------:|:------------:|:---------:|
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/loginpage.png?raw=true"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/profilepage.png?raw=true"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/homepage.png?raw=true"> |
+
+| Bill | Top Up | Profile Update |
+|:----:|:------:|:--------------:|
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/bill.png?raw=true"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/topup.png?raw=true"> | <img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/updateprofile.png?raw=true"> |
+
+| Claim Voucher |
+| :-----------: |
+|<img src="https://github.com/billywibowo7/Billy-Portfolio/blob/master-branch/images/claimvoucher.png?raw=true"> |
